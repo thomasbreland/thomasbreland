@@ -1,6 +1,6 @@
-### Hi there 👋
+### Welcome to my GitHub! 👋
 
-Welcome to my GitHub! I'm Phillip Breland. I like code.
+I'm Phillip Breland. I like code.
 
 - 🔭 I’m currently working on personal projects to get myself caught up with relevant technologies.
 - 🌱 I’m currently learning DevOps.
