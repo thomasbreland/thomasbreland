@@ -7,7 +7,7 @@ I'm Thomas Phillip Breland. I am a CISSP and AWS Certified Solutions Architect A
 - 💬 Ask me about language learning, music, or code!
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/thomasbreland), [My Email](mailto:thomas@breland.tech)
 - 💻 See more of my work: [My CodePen](https://codepen.io/thomasbreland)
-- 🖥️ I also have some old full stack / FreeCodeCamp projects with MongoDB on [My Repl.it](https://replit.com/@thomasbreland)
+- 🖥️ I also have some old full stack / FreeCodeCamp projects with Node.js, Express, and MongoDB on [My Repl.it](https://replit.com/@thomasbreland)
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: -->
